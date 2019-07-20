@@ -16,9 +16,13 @@ In this repo, I'll show you the steps of how I built a mobile app (SmaDet:Smart 
 - [Flutter (framework to deploy a service to iOS and Android)](https://flutter.dev/?gclid=Cj0KCQjw1MXpBRDjARIsAHtdN-2C3pD1nrtqMKspP4VVC_2Gc5mgYcB8Q5jh9TmFjS3ofD9nvMP065IaAig-EALw_wcB)
 ![alt text](https://venturebeat.com/wp-content/uploads/2019/05/flutter-mobile-desktop-web-embedded.png?fit=400%2C200&strip=all)
 
+Flutter is Google’s portable UI toolkit for building beautiful, natively-compiled applications for mobile, web, and desktop from a single codebase. 
 
 - [Tensorflow Lite (Run model on-device)](https://www.tensorflow.org/lite)
 ![alt text](https://i1.wp.com/androidkt.com////wp-content/uploads/2017/07/Life-Cycle-of-Model.png?resize=624%2C351&ssl=1)
+
+TensorFlow Lite is a set of tools to help developers run TensorFlow models on mobile, embedded, and IoT devices. It enables on-device machine learning inference with low latency and a small binary size.
+
 
 - YOLO_2 (Detect object of user)
 ![alt text](https://www.danioved.com/portfolio/posenet/images/posenet-multipose.gif)
