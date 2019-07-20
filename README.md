@@ -13,11 +13,11 @@ In this repo, I'll show you the steps of how I built a mobile app (SmaDet:Smart 
 
 ### Tools Used
 
-- Flutter (framework to deploy a service to iOS and Android)
+- [Flutter (framework to deploy a service to iOS and Android)](https://flutter.dev/?gclid=Cj0KCQjw1MXpBRDjARIsAHtdN-2C3pD1nrtqMKspP4VVC_2Gc5mgYcB8Q5jh9TmFjS3ofD9nvMP065IaAig-EALw_wcB)
 ![alt text](https://venturebeat.com/wp-content/uploads/2019/05/flutter-mobile-desktop-web-embedded.png?fit=400%2C200&strip=all)
 
 
-- Tensorflow Lite (Run model on-device)
+- [Tensorflow Lite (Run model on-device)](https://www.tensorflow.org/lite)
 ![alt text](https://i1.wp.com/androidkt.com////wp-content/uploads/2017/07/Life-Cycle-of-Model.png?resize=624%2C351&ssl=1)
 
 - YOLO_2 (Detect object of user)
