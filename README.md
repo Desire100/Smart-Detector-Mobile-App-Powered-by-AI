@@ -2,7 +2,7 @@
 
 ## Overview
 
-In this repo, I'll show you the steps of how I built a mobile app (SmaDet:Smart Detector) for iOS and Android that offers users an automated on-demand obeject detection with help of flutter and
+In this repo, I'll show you the steps of how I built an AI mobile app (SmaDet:Smart Detector) for iOS and Android that offers users an automated on-demand obeject detection with help of flutter and
  [YOLOv2](https://pjreddie.com/darknet/yolov2/) version2.
 
 
