@@ -19,7 +19,8 @@ the short video about the functionality of the app.
 
 
 
-**Flutter**: is Google’s portable UI toolkit for building beautiful, natively-compiled applications for mobile, web, and desktop from a single codebase. 
+**[Flutter](https://github.com/Desire100/Smart-Detector-Mobile-App-Powered-by-AI/blob/master/Flutter.ipynb)**: is Google’s portable UI toolkit for building beautiful, natively-compiled applications for mobile, web, and desktop from a single codebase. 
+
 
 
 **TensorFlow Lite**: is a set of tools to help developers run TensorFlow models on mobile, embedded, and IoT devices. It enables on-device machine learning inference with low latency and a small binary size.
