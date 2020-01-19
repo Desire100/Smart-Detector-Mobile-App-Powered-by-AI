@@ -2,26 +2,30 @@
 
 ## Overview
 
-In this repo, I'll show you the steps of how I built an AI mobile app (SmaDet:Smart Detector) for iOS and Android that offers users an automated on-demand obeject detection with help of flutter and
- [YOLOv2](https://pjreddie.com/darknet/yolov2/) version2.
+This repo contains the steps on how to built an mobile application for object detection powered with [YOLOv2] [YOLOv2](https://pjreddie.com/darknet/yolov2/).
+
+![smadet](https://user-images.githubusercontent.com/35916017/72685014-cb0f6f00-3b20-11ea-8441-200b11c6259b.png)
+
+![smadet_cup](https://user-images.githubusercontent.com/35916017/72685036-f2fed280-3b20-11ea-9add-3fc4b1b2b34c.png) ![smadet_refri](https://user-images.githubusercontent.com/35916017/72685077-61dc2b80-3b21-11ea-8474-b2eef6cf3c28.png)
 
 
-###  Objectives
+### Demo
 
-- Creating a Simple Flutter app (iOS and Android)
-- How the YOLO_v2 Model detects objects
+[smadet.zip](https://github.com/Desire100/Smart-Detector-Mobile-App-Powered-by-AI/files/4082932/smadet.zip) This is 
+the short video about the functionality of the app.
+
 
 ### Tools Used
 
 
 
-Flutter: is Google’s portable UI toolkit for building beautiful, natively-compiled applications for mobile, web, and desktop from a single codebase. 
+**Flutter**: is Google’s portable UI toolkit for building beautiful, natively-compiled applications for mobile, web, and desktop from a single codebase. 
 
 
-TensorFlow Lite: is a set of tools to help developers run TensorFlow models on mobile, embedded, and IoT devices. It enables on-device machine learning inference with low latency and a small binary size.
+**TensorFlow Lite**: is a set of tools to help developers run TensorFlow models on mobile, embedded, and IoT devices. It enables on-device machine learning inference with low latency and a small binary size.
 
 
-- YOLO_2 (Detect object of user)
+**- YOLO_2 ** (Detect object of user)
 ![alt text](https://www.danioved.com/portfolio/posenet/images/posenet-multipose.gif)
 
 
@@ -47,3 +51,4 @@ You only look once (YOLO) is a state-of-the-art, real-time object detection syst
 
 ## Credits
  [Siraj Raval](https://github.com/llSourcell)  (Data Scientist & ML engineer) 
+ 
